@@ -1,0 +1,28 @@
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\bin\Debug\net7.0\RentVehicle.exe
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\bin\Debug\net7.0\RentVehicle.deps.json
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\bin\Debug\net7.0\RentVehicle.runtimeconfig.json
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\bin\Debug\net7.0\RentVehicle.dll
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\bin\Debug\net7.0\RentVehicle.pdb
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.AssemblyInfoInputs.cache
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.AssemblyInfo.cs
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.csproj.CoreCompileInputs.cache
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.dll
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\refint\RentVehicle.dll
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.pdb
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.genruntimeconfig.cache
+C:\Intervjui\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\ref\RentVehicle.dll
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\bin\Debug\net7.0\RentVehicle.exe
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\bin\Debug\net7.0\RentVehicle.deps.json
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\bin\Debug\net7.0\RentVehicle.runtimeconfig.json
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\bin\Debug\net7.0\RentVehicle.dll
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\bin\Debug\net7.0\RentVehicle.pdb
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.AssemblyInfoInputs.cache
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.AssemblyInfo.cs
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.csproj.CoreCompileInputs.cache
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.dll
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\refint\RentVehicle.dll
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.pdb
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\RentVehicle.genruntimeconfig.cache
+C:\Intervjui Posao\I Prime Soft zadaci\RentVehicle\obj\Debug\net7.0\ref\RentVehicle.dll
